@@ -1,0 +1,23 @@
+rim lighting
+cinematic lighting
+crepuscular rays
+Ambient occlusion
+Bloom
+Color bleeding
+Depth of field
+Dispersive refraction
+Fresnel effects
+Global illumination
+Godrays
+Image-based lighting
+Light shafts
+Normal mapping
+Parallax mapping
+Photometric lighting
+Raytraced reflections
+Raytraced shadows
+Subsurface scattering
+Tone mapping
+Volumetric lighting
+Volumetric shadows
+Z-fighting

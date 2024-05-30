@@ -1,0 +1,60 @@
+Greek Minotaur
+Norse Troll
+Japanese Kappa
+Chinese Dragon
+Egyptian Anubis
+Celtic Leprechaun
+Slavic Baba Yaga
+Mexican Chupacabra
+Polynesian Moko
+Hindu Naga
+African Mami Wata
+Germanic Lindworm
+Irish Banshee
+Norse Fenris
+Chinese Phoenix
+Japanese Oni
+Greek Cyclops
+Slavic Vila
+Hindu Raksha
+Mexican La Llorona
+Celtic Cù Sìth
+African Asmodeus
+Norse Jotun
+Chinese Qilin
+Japanese Tengu
+Greek Chimera
+Slavic Vodyanoy
+Hindu Garuda
+Mexican El Cadejo
+Polynesian Taniwha
+Gnome
+Goblin
+Orc
+Sprite
+Faerie
+Troll
+Pixie
+Dryad
+Elf
+Dwarf
+Yeti
+Gremlin
+Mudman
+Beast
+Pixie
+Jinni
+Naga
+Banshee
+Chupacabra
+Werewolf
+Vampire
+Mummy
+Ghoulish
+Specter
+Phantom
+Werebear
+Dragonet
+Harpy
+Kraken
+Dryad
